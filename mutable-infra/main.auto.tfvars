@@ -1,2 +1,2 @@
 COMPONENT   = "frontend"
-APP_PORT    = 8080
+APP_PORT    = 80
